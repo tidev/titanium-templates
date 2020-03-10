@@ -1,0 +1,8 @@
+{
+	"name": "@titanium-sdk/template-app-alloy",
+	"version": "1.0.0",
+	"description": "Template for creating Titanium alloy apps",
+    "keywords": [
+        "titanium-app-template"
+    ]
+}

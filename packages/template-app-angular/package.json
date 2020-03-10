@@ -1,0 +1,8 @@
+{
+    "name": "@titanium-sdk/template-app-angular",
+    "version": "1.0.0",
+    "description": "Template for creating Angular based Titanium apps",
+    "keywords": [
+        "titanium-app-template"
+    ]
+}

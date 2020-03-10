@@ -1,0 +1,8 @@
+{
+    "name": "@titanium-sdk/template-watch-app",
+    "version": "1.0.0",
+    "description": "Template for creating Apple Watch Apps for Titanium Apps",
+    "keywords": [
+        "titanium-template"
+    ]
+}

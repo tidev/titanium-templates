@@ -1,0 +1,8 @@
+{
+    "name": "@titanium-sdk/template-app-classic",
+    "version": "1.0.0",
+    "description": "Template for creating Titanium classic apps",
+    "keywords": [
+        "titanium-app-template"
+    ]
+}

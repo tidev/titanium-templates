@@ -1,0 +1,8 @@
+{
+    "name": "@titanium-sdk/template-module-native",
+    "version": "1.0.0",
+    "description": "Template for creating native Titanium modules",
+    "keywords": [
+        "titanium-module-template"
+    ]
+}

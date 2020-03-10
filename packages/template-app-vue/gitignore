@@ -1,0 +1,19 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build dirs and files
+/build
+/platform
+/Resources
+
+# Dependency directories
+/node_modules
+
+# OS files
+._*
+.DS_Store
+Thumbs.db
