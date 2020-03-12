@@ -1,0 +1,14 @@
+{
+  "name": "titanium-alloy-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "ios": "ti run -p ios",
+    "android": "ti run -p android",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/titanium": "^9.0.0",
+    "typescript": "^3.8.3"
+  }
+}

@@ -2,7 +2,7 @@
 
 Welcome to your new project!
 
-## Quick start
+## Quick Start
 
 To build your app, run the Titanium CLI "build" command.
 
@@ -19,22 +19,22 @@ To build your app, run the Titanium CLI "build" command.
 │  │  ├─ fonts/
 │  │  └─ images/
 │  │     └─ icons/
-│  ├─ src/
-│  │  ├─ components/
-│  │  ├─ modules/
-│  │  ├─ App.vue
-│  │  ├─ Item.vue
-│  │  ├─ main.js
-│  │  └─ routes.js
-│  ├─ .baberc
-│  └─ webpack.config.js
+│  └─ src/
+│     ├─ components/
+│     ├─ modules/
+│     ├─ App.vue
+│     ├─ Item.vue
+│     ├─ main.js
+│     └─ routes.js
 ├─ hooks/
 │  └─ pre-compile.js            # Titanium CLI v5 hook plugin
+│─ .baberc
 ├─ .gitignore                   # File patterns to exclude from git version control
 ├─ DefaultIcon.png              # An icon used to generate icons
 ├─ package.json                 # npm manifest for registering dependencies
 ├─ README.md
-└─ tiapp.xml                    # Titanium project settings
+├─ tiapp.xml                    # Titanium project settings
+└─ webpack.config.js
 ```
 
 ## Documentation

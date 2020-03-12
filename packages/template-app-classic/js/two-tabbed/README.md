@@ -1,8 +1,8 @@
-# Titanium Classic App (JavaScript)
+# Titanium Classic App
 
 Welcome to your new project!
 
-## Quick start
+## Quick Start
 
 To build your app, run the Titanium CLI "build" command.
 

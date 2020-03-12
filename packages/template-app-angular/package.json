@@ -4,5 +4,8 @@
     "description": "Template for creating Angular based Titanium apps",
     "keywords": [
         "titanium-app-template"
-    ]
+    ],
+    "template": {
+        "default": "angular6"
+    }
 }

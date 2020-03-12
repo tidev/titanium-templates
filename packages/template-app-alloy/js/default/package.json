@@ -1,4 +1,5 @@
 {
-    "name": "alloy-app-default",
-    "version": "1.0.0"
+  "name": "titanium-alloy-app",
+  "version": "1.0.0",
+  "private": true
 }

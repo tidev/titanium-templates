@@ -1,10 +1,7 @@
 {
     "name": "@titanium-sdk/template-app-vue",
     "version": "1.0.0",
-    "description": "Template for creating Vue.js based Titanium apps",
-    "keywords": [
-        "titanium-app-template"
-    ],
+    "private": true,
     "devDependencies": {
         "babel-core": "^6.26.0",
         "babel-loader": "^7.1.4",

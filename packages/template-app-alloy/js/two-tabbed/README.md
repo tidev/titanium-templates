@@ -2,7 +2,7 @@
 
 Welcome to your new project!
 
-## Quick start
+## Quick Start
 
 To build your app, run the Titanium CLI "build" command.
 
@@ -14,23 +14,23 @@ To build your app, run the Titanium CLI "build" command.
 
 ```sh
 .
-├─ app/                         #
+├─ app/
 │  ├─ assets/
-│  │  ├─ KS_nav_ui.png         #
-│  │  └─ KS_nav_ui.png         #
 │  ├─ controllers/
-│  │  └─ index.js              #
+│  ├─ platform/
+│  │  ├─ android/
+│  │  │  └─ AndroidManifest.xml   # Android SDK settings
+│  │  └─ ios/
+│  │     └─ Info.plist            # iOS SDK settings
 │  ├─ styles/
-│  │  └─ index.tss             #
 │  ├─ views/
-│  │  └─ index.html            #
-│  └─ config.json              #
-├─ app.png
-├─ .gitignore                   # File patterns to exclude from git version control
-├─ DefaultIcon.png              # An icon used to generate icons
-├─ package.json                 # npm manifest for registering dependencies
+│  └─ config.json
+├─ .gitignore                     # File patterns to exclude from git version control
+├─ DefaultIcon-ios.png            # An icon used to generate icons for iOS
+├─ DefaultIcon.png                # An icon used to generate icons
+├─ package.json                   # npm manifest for registering dependencies
 ├─ README.md
-└─ tiapp.xml                    # Titanium project settings
+└─ tiapp.xml                      # Titanium project settings
 ```
 
 ## Documentation

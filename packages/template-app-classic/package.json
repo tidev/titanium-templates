@@ -4,5 +4,8 @@
     "description": "Template for creating Titanium classic apps",
     "keywords": [
         "titanium-app-template"
-    ]
+    ],
+    "template": {
+        "default": "js/two-tabbed"
+    }
 }

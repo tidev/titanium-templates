@@ -1,8 +1,8 @@
-# Titanium Classic App (TypeScript)
+# Titanium Classic App
 
 Welcome to your new project!
 
-## Quick start
+## Quick Start
 
 To build your app, run the Titanium CLI "build" command.
 
@@ -39,15 +39,8 @@ To build your app, run the Titanium CLI "build" command.
 ├─ package.json                # npm manifest for registering dependencies
 ├─ README.md
 ├─ tiapp.xml                   # Titanium project settings
-├─ tsconfig.json               # TypeScript compiler settings
-└─ tslint.json                 # TypeScript lint rules
+└─ tsconfig.json               # TypeScript compiler settings
 ```
-
-## Code Linting
-
-To ensure good coding style, this project is configured to use `tslint`. Simply run:
-
-	npm run lint
 
 ## Documentation
 

@@ -1,8 +1,11 @@
 {
-    "name": "@titanium-sdk/template-app-classic",
+    "name": "@titanium-sdk/template-app-vue",
     "version": "1.0.0",
-    "description": "Template for creating Titanium classic apps",
+    "description": "Template for creating Vue.js based Titanium apps",
     "keywords": [
         "titanium-app-template"
-    ]
+    ],
+    "template": {
+        "default": "vue2"
+    }
 }
