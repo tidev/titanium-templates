@@ -10,5 +10,5 @@ A simple app with a clickable label that shows an alert.
 ti new --template @titanium-sdk/template-app-angular
 ```
 ```
-ti new --template @titanium-sdk/template-app-angular:angular6
+ti new --template @titanium-sdk/template-app-angular:angular6/tap
 ```
