@@ -27,9 +27,8 @@ To build your app, run the Titanium CLI "build" command.
 │  └─ ios/
 │     └─ Info.plist            # iOS SDK settings
 ├─ Resources/
-│  ├─ android/                 # Android specific images and icons
-│  ├─ images/
-│  ├─ ios/                     # iOS specific images and icons
+│  ├─ android/                 # Android launch screens
+│  ├─ images/                  # Common images
 │  ├─ lib/
 │  │  ├─ bootstrap.ts
 │  │  └─ greeter.ts

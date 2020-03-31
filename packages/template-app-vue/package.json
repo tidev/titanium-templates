@@ -4,8 +4,5 @@
     "description": "Template for creating Vue.js based Titanium apps",
     "keywords": [
         "titanium-app-template"
-    ],
-    "template": {
-        "default": "vue2"
-    }
+    ]
 }

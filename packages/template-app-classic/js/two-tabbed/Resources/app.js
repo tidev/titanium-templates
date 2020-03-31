@@ -6,8 +6,8 @@ const tabGroup = Ti.UI.createTabGroup();
 /**
  * Add the two created tabs to the tabGroup object.
  */
-tabGroup.addTab(createTab('Tab 1', 'I am Window 1', 'assets/images/tab1.png'));
-tabGroup.addTab(createTab('Tab 2', 'I am Window 2', 'assets/images/tab2.png'));
+tabGroup.addTab(createTab('Tab 1', 'I am Window 1', 'images/tab1.png'));
+tabGroup.addTab(createTab('Tab 2', 'I am Window 2', 'images/tab2.png'));
 
 /**
  * Open the tabGroup.

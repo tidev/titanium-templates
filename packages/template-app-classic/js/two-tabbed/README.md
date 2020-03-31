@@ -20,6 +20,8 @@ To build your app, run the Titanium CLI "build" command.
 │  └─ ios/
 │     └─ Info.plist            # iOS SDK settings
 ├─ Resources/
+│  ├─ android/                 # Android launch screens
+│  ├─ images/                  # Common images
 │  └─ app.js                   # Main entry point for your application
 ├─ .gitignore                  # File patterns to exclude from git version control
 ├─ DefaultIcon.png             # An icon used to generate icons

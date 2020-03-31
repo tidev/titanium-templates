@@ -17,6 +17,8 @@ To build your app, run the Titanium CLI "build" command.
 ├─ .vscode/                       # Visual Studio Code editor settings
 ├─ app/
 │  ├─ assets/
+│  │  ├─ android/                 # Android launch screens
+│  │  └─ images/                  # Common images
 │  ├─ controllers/
 │  ├─ lib/
 │  ├─ platform/
@@ -33,7 +35,7 @@ To build your app, run the Titanium CLI "build" command.
 ├─ hooks/
 │  └─ pre-compile.js              # Titanium CLI v5 hook plugin
 ├─ .gitignore                     # File patterns to exclude from git version control
-├─ DefaultIcon-ios.png            # An icon used to generate icons for iOS build
+├─ DefaultIcon-ios.png            # An icon used to generate icons for iOS w/ solid background
 ├─ DefaultIcon.png                # An icon used to generate icons
 ├─ iTunesConnect.png              # An icon used to generate icons
 ├─ package.json                   # npm manifest for registering dependencies

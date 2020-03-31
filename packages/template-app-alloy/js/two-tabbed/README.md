@@ -16,6 +16,7 @@ To build your app, run the Titanium CLI "build" command.
 .
 ├─ app/
 │  ├─ assets/
+│  │  └─ android/                 # Android launch screens
 │  ├─ controllers/
 │  ├─ platform/
 │  │  ├─ android/
@@ -26,7 +27,7 @@ To build your app, run the Titanium CLI "build" command.
 │  ├─ views/
 │  └─ config.json
 ├─ .gitignore                     # File patterns to exclude from git version control
-├─ DefaultIcon-ios.png            # An icon used to generate icons for iOS
+├─ DefaultIcon-ios.png            # An icon used to generate icons for iOS w/ solid background
 ├─ DefaultIcon.png                # An icon used to generate icons
 ├─ package.json                   # npm manifest for registering dependencies
 ├─ README.md

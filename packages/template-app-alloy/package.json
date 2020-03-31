@@ -4,8 +4,5 @@
 	"description": "Template for creating Titanium alloy apps",
     "keywords": [
         "titanium-app-template"
-	],
-	"template": {
-		"default": "default"
-	}
+	]
 }
